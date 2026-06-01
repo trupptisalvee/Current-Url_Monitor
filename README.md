@@ -27,7 +27,7 @@ and alerts users when a site goes down or becomes unreachable.
 ### Installation
 
 # Clone the repo
-git clone https://github.com/your-username/url-health-monitor.git
+https://trupptisalvee.github.io/Current-Url_Monitor/
 
 # Install frontend dependencies
 cd frontend
