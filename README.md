@@ -65,9 +65,10 @@ npm run dev
 
 ## Screenshots
 
-(Add screenshots here)
+<img width="1250" height="1073" alt="image" src="https://github.com/user-attachments/assets/fe956559-bcb3-427a-8d62-3c528491c445" />
+
 
 ## Author
 
-Truppti — B.Tech CSE, Pimpri Chinchwad University"# Current-Url-Monitor" 
-"A URL monitoring tool built with React + Vite" 
+Truppti "# Current-Url-Monitor" 
+"A URL monitoring tool"
