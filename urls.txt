@@ -1,0 +1,6 @@
+https://google.com
+https://github.com
+https://api.github.com
+http://example.com
+https://invalid.domain.xyz
+https://httpstat.us/200?sleep=5000
